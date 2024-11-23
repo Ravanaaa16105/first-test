@@ -1,2 +1,2 @@
 # first-test
-kdfvmdofdo
+print("salam")
